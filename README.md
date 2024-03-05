@@ -189,6 +189,7 @@
   <h3>Meals</h3>
     <label>
       <input type="checkbox" class="menu-item" data-price="500"> The Bleeder Bag #1 - $500
+      <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
       <input type="checkbox" class="menu-item" data-price="500"> Double Shot Bag #2 - $500
