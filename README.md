@@ -224,35 +224,35 @@
 
 	<h3>Single Items</h3>
  <label>
-      <input type="checkbox" class="menu-item" data-price="500"> The Bleeder Bag #1 - $15,000
+      <input type="checkbox" class="menu-item" data-price="500"> The Bleeder Bag #1 - $500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="500"> Double Shot Bag #2 - $35,000
+      <input type="checkbox" class="menu-item" data-price="500"> Double Shot Bag #2 - $500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="500"> Heart Stopper Bag #3 - $30,000
+      <input type="checkbox" class="menu-item" data-price="500"> Heart Stopper Bag #3 - $500
       <input type="number" class="quantity" value="1" min="1">
     </label>
  <label>
-      <input type="checkbox" class="menu-item" data-price="500"> Simply Burger Bag #5 - $15,000
+      <input type="checkbox" class="menu-item" data-price="500"> Simply Burger Bag #5 - $500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="500"> The Prickly Bag #6 - $35,000
+      <input type="checkbox" class="menu-item" data-price="500"> The Prickly Bag #6 - $500
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="3000"> Heart Stopper Crate(x5) - $30,000
+      <input type="checkbox" class="menu-item" data-price="3000"> Heart Stopper Crate(x5) - $3000
       <input type="number" class="quantity" value="1" min="1">
     </label>
  <label>
-      <input type="checkbox" class="menu-item" data-price="1250"> Sweet Tooth Crate(x5) #7 - $15,000
+      <input type="checkbox" class="menu-item" data-price="1250"> Sweet Tooth Crate(x5) #7 - $1250
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="2500"> Expresso Crate (x30) #8 - $35,000
+      <input type="checkbox" class="menu-item" data-price="2500"> Expresso Crate (x30) #8 - $2500
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
