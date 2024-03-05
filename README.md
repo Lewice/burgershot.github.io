@@ -224,35 +224,43 @@
 
 	<h3>Single Items</h3>
  <label>
-      <input type="checkbox" class="menu-item" data-price="500"> The Bleeder Bag #1 - $500
+      <input type="checkbox" class="menu-item" data-price="300"> The Bleeder  - $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="500"> Double Shot Bag #2 - $500
+      <input type="checkbox" class="menu-item" data-price="300"> Double Shot  - $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="500"> Heart Stopper Bag #3 - $500
+      <input type="checkbox" class="menu-item" data-price="300"> Heart Stopper  - $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
  <label>
-      <input type="checkbox" class="menu-item" data-price="500"> Simply Burger Bag #5 - $500
+      <input type="checkbox" class="menu-item" data-price="300"> The Prickly - $300
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="500"> The Prickly Bag #6 - $500
+      <input type="checkbox" class="menu-item" data-price="100"> Fries  - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="3000"> Heart Stopper Crate(x5) - $3000
+      <input type="checkbox" class="menu-item" data-price="50"> Pickles  - $50
       <input type="number" class="quantity" value="1" min="1">
     </label>
  <label>
-      <input type="checkbox" class="menu-item" data-price="1250"> Sweet Tooth Crate(x5) #7 - $1250
+      <input type="checkbox" class="menu-item" data-price="100"> Expresso  - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="2500"> Expresso Crate (x30) #8 - $2500
+      <input type="checkbox" class="menu-item" data-price="100"> BS Soda - $100
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+  <label>
+      <input type="checkbox" class="menu-item" data-price="150"> Oragotang Ice Cream - $150
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+  <label>
+      <input type="checkbox" class="menu-item" data-price="150"> Metorite Ice Cream - $150
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
